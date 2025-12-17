@@ -719,6 +719,10 @@ footer {
   margin-left: 141px;
 }
 
+nav ul {
+  list-style-type: none;
+}
+
 @media (max-width: 800px) {
   .page-layout {
     flex-direction: column;
